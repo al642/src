@@ -19,17 +19,17 @@ export function IndexPage() {
 export function getIndexHead() {
   return {
     meta: [
-      { title: "Hots & Colds — A Mbalwa Coffee Shop" },
+      { title: "Hots & Colds — Premium Coffee House in Mbalwa" },
       {
         name: "description",
         content:
-          "Hots & Colds is a neighbourhood coffee shop in Mbalwa, Uganda. Freshly roasted espresso, iced coffees, smoothies, and bakes made daily.",
+          "Hots & Colds is a premium-feeling neighbourhood coffee house in Mbalwa, Uganda. Freshly roasted espresso, chilled signatures, and bakes made daily.",
       },
-      { property: "og:title", content: "Hots & Colds — A Mbalwa Coffee Shop" },
+      { property: "og:title", content: "Hots & Colds — Premium Coffee House in Mbalwa" },
       {
         property: "og:description",
         content:
-          "Sip bold. Stay cosy. Hots, colds and bites in the heart of Mbalwa.",
+          "Editorial café mood, roasted coffee, chilled pours, and warm bakes in the heart of Mbalwa.",
       },
     ],
   };
